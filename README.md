@@ -2,6 +2,11 @@
 
 Tokenizer Playground è una semplice applicazione sviluppata con Python e `CustomTkinter` che consente agli utenti di esplorare come i token vengono generati dal tokenizer di BERT (`bert-base-uncased`). Puoi inserire un testo, vedere i token generati, il numero di caratteri e il numero di token, e visualizzare ogni token evidenziato in modo casuale.
 
+<p align="center">
+  <img src="images/app.png" width="200">
+</p>
+
+
 ## Funzionalità
 
 - **Input di testo:** Inserisci del testo nel campo di testo per vedere come viene tokenizzato.
@@ -17,8 +22,9 @@ Tokenizer Playground è una semplice applicazione sviluppata con Python e `Custo
 
 ## Screenshot
 
-![Screenshot](path_to_your_screenshot.png)
-
+<p align="center">
+  <img src="images/app1.png" width="500">
+</p>
 ## Prerequisiti
 
 Per eseguire questa applicazione, assicurati di avere i seguenti pacchetti installati:
