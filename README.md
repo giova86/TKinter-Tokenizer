@@ -29,7 +29,7 @@ Tokenizer Playground è una semplice applicazione sviluppata con Python e `Custo
 
 Per eseguire questa applicazione, assicurati di avere i seguenti pacchetti installati:
 
-- Python 3.x
+- Python 3.13
 - `transformers` (Hugging Face)
 - `customtkinter`
 - `PIL` (Pillow)
@@ -37,7 +37,7 @@ Per eseguire questa applicazione, assicurati di avere i seguenti pacchetti insta
 Puoi installarli utilizzando pip:
 
 ```bash
-pip install transformers customtkinter pillow
+pip install -r requirements.txt
 ```
 Esecuzione
 
